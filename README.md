@@ -1,4 +1,4 @@
-## Hello I hope you have a great day!
+## Hello 👋 , I hope you have a great day!
 
 Call me Cascade for short!
 I'm currently learning python🐍
